@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://clinflash.github.io/dev-docs/sitemap.xml
