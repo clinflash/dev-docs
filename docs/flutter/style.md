@@ -33,6 +33,7 @@ linter:
   rules:
     require_trailing_commas: true
 ```
+在终端跑`dart fix --apply`
 
 保存自动修复，例如自动添加`const`等，在`setting.json`中添加配置。
 ```json
