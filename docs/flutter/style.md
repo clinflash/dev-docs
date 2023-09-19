@@ -25,3 +25,19 @@ my_package
         ├── file_system.dart
         └── slider_menu.dart
 ```
+
+## 格式化
+添加 ==末尾逗号== 格式化，在`analysis_options.yaml`文件中添加配置。
+```yaml
+linter:
+  rules:
+    require_trailing_commas: true
+```
+
+保存自动修复，例如自动添加`const`等，在`setting.json`中添加配置。
+```json
+"editor.codeActionsOnSave": {
+  "source.fixAll": true
+},
+```
+
