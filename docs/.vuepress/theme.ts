@@ -10,6 +10,8 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
+  favicon: "/favicon.ico",
+
   logo: "/logo.png",
 
   repo: "clinflash/dev-docs",
