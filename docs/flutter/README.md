@@ -6,6 +6,8 @@ index: false
 
 ## 目录
 
-- [Flutter 常用快捷键](shortcuts.md)
+- [开始使用](get-started.md)
 
-- [Flutter 代码风格](style.md)
+- [常用快捷键](shortcuts.md)
+
+- [代码风格](style.md)

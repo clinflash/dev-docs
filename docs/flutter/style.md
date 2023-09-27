@@ -1,12 +1,13 @@
 ---
-title: Flutter 代码风格
+title: 代码风格
 author: 猪蚊耗
 date: 2023-09-15
 category:
   - Flutter
+order: 2
 ---
 
-# Flutter 代码风格
+# 代码风格
 
 <!-- more -->
 

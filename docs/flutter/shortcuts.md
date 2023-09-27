@@ -1,12 +1,13 @@
 ---
-title: Flutter 常用快捷键
+title: 常用快捷键
 author: 猪蚊耗
 date: 2023-09-15
 category:
   - Flutter
+order: 3
 ---
 
-# Flutter 常用快捷键
+# 常用快捷键
 
 <!-- more -->
 
