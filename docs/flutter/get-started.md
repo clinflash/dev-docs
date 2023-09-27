@@ -48,4 +48,14 @@ export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
 ## 计数器示例
 
-<iframe src="https://dartpad.cn/embed-flutter.html?id=e75b493dae1287757c5e1d77a0dc73f1&theme=light&split=50&run=true" width="100%" height="500px" />
+<iframe
+  v-if="!$isDarkmode" 
+  src="https://dartpad.cn/embed-flutter.html?id=e75b493dae1287757c5e1d77a0dc73f1&theme=light&split=50"
+  style="width: 100%; height: 500px; border: 0;"
+/>
+
+<iframe
+  v-if="$isDarkmode" 
+  src="https://dartpad.cn/embed-flutter.html?id=e75b493dae1287757c5e1d77a0dc73f1&theme=dark&split=50"
+  style="width: 100%; height: 500px; border: 0;"
+/>
